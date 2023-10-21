@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\bin\Debug\net7.0\tortoki_blin.exe
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\bin\Debug\net7.0\tortoki_blin.deps.json
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\bin\Debug\net7.0\tortoki_blin.runtimeconfig.json
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\bin\Debug\net7.0\tortoki_blin.dll
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\bin\Debug\net7.0\tortoki_blin.pdb
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.dll
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\refint\tortoki_blin.dll
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.pdb
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\tortoki_blin.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\tortoki_blin\tortoki_blin\obj\Debug\net7.0\ref\tortoki_blin.dll
