@@ -7,7 +7,7 @@ namespace tortiki_blin
         static void Main(string[] args)
         {
             int position;
-            Cake cake = new Cake();
+            tortiki tortik = new tortiki();
             Item circle = new Item("Круг", 500);
             Item square = new Item("Квадрат", 600);
             Item paraleleoiped = new Item("Паралелепипед", 800);
@@ -68,26 +68,26 @@ namespace tortiki_blin
                 File.Create("C:\\Users\\Admin\\Desktop\\Cakes.txt");
             while (true)
             {
-                position = cake.Menu();
+                position = tortik.Menu();
                 switch (position)
                 {
                     case 3:
-                        cake.SecondMenu(shapes);
+                        tortik.SecondMenu(shapes);
                         break;
                     case 4:
-                        cake.SecondMenu(sizes);
+                        tortik.SecondMenu(sizes);
                         break;
                     case 5:
-                        cake.SecondMenu(taste);
+                        tortik.SecondMenu(taste);
                         break;
                     case 6:
-                        cake.SecondMenu(amount);
+                        tortik.SecondMenu(amount);
                         break;
                     case 7:
-                        cake.SecondMenu(glaze);
+                        tortik.SecondMenu(glaze);
                         break;
                     case 8:
-                        cake.SecondMenu(decor);
+                        tortik.SecondMenu(decor);
                         break;
                 }
             }

@@ -2,7 +2,7 @@
 
 namespace tortiki_blin
 {
-    public class Cake
+    public class tortiki
     {
         int price;
         private int position = 3;
